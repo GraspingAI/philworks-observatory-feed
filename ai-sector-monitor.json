@@ -1,0 +1,158 @@
+{
+  "schema": "philworks.observatory-feed/1",
+  "kind": "automated_collection_metadata",
+  "notice": "Automated collection statistics from public job boards. Not reviewed research findings and not a publication.",
+  "generatedAt": "2026-10-20T23:33:45.034Z",
+  "coveredThrough": "2026-10-20",
+  "schedule": {
+    "cadence": "daily",
+    "utcTimes": [
+      "06:17",
+      "10:17"
+    ]
+  },
+  "runCount": 10,
+  "firstSlot": "2026-10-11",
+  "lastAttempt": {
+    "slot": "2026-10-20",
+    "completedAt": "2026-10-20T06:43:38.624Z",
+    "panelVersion": "2026-10-10-provisional-1",
+    "collectorVersion": "1.0.1",
+    "boards": {
+      "total": 29,
+      "ok": 29,
+      "failed": 0,
+      "held": 0
+    },
+    "mainPanel": {
+      "employers": 23,
+      "ok": 23,
+      "postings": 4059
+    },
+    "stratumC": {
+      "employers": 6,
+      "ok": 6
+    }
+  },
+  "lastSuccess": {
+    "slot": "2026-10-20",
+    "completedAt": "2026-10-20T06:43:38.624Z",
+    "panelVersion": "2026-10-10-provisional-1",
+    "collectorVersion": "1.0.1",
+    "boards": {
+      "total": 29,
+      "ok": 29,
+      "failed": 0,
+      "held": 0
+    },
+    "mainPanel": {
+      "employers": 23,
+      "ok": 23,
+      "postings": 4059
+    },
+    "stratumC": {
+      "employers": 6,
+      "ok": 6
+    }
+  },
+  "sevenDayChange": {
+    "status": "comparable",
+    "from": "2026-10-13",
+    "to": "2026-10-20",
+    "fromPostings": 4031,
+    "toPostings": 4059,
+    "change": 28
+  },
+  "days": [
+    {
+      "slot": "2026-10-11",
+      "status": "complete",
+      "runs": 1,
+      "boardsOk": 29,
+      "boards": 29,
+      "mainPanelPostings": 4039,
+      "comparableWithLatest": true
+    },
+    {
+      "slot": "2026-10-12",
+      "status": "complete",
+      "runs": 1,
+      "boardsOk": 29,
+      "boards": 29,
+      "mainPanelPostings": 4035,
+      "comparableWithLatest": true
+    },
+    {
+      "slot": "2026-10-13",
+      "status": "complete",
+      "runs": 1,
+      "boardsOk": 29,
+      "boards": 29,
+      "mainPanelPostings": 4031,
+      "comparableWithLatest": true
+    },
+    {
+      "slot": "2026-10-14",
+      "status": "complete",
+      "runs": 1,
+      "boardsOk": 29,
+      "boards": 29,
+      "mainPanelPostings": 4022,
+      "comparableWithLatest": true
+    },
+    {
+      "slot": "2026-10-15",
+      "status": "complete",
+      "runs": 1,
+      "boardsOk": 29,
+      "boards": 29,
+      "mainPanelPostings": 4012,
+      "comparableWithLatest": true
+    },
+    {
+      "slot": "2026-10-16",
+      "status": "complete",
+      "runs": 1,
+      "boardsOk": 29,
+      "boards": 29,
+      "mainPanelPostings": 4041,
+      "comparableWithLatest": true
+    },
+    {
+      "slot": "2026-10-17",
+      "status": "complete",
+      "runs": 1,
+      "boardsOk": 29,
+      "boards": 29,
+      "mainPanelPostings": 4062,
+      "comparableWithLatest": true
+    },
+    {
+      "slot": "2026-10-18",
+      "status": "complete",
+      "runs": 1,
+      "boardsOk": 29,
+      "boards": 29,
+      "mainPanelPostings": 4056,
+      "comparableWithLatest": true
+    },
+    {
+      "slot": "2026-10-19",
+      "status": "complete",
+      "runs": 1,
+      "boardsOk": 29,
+      "boards": 29,
+      "mainPanelPostings": 4052,
+      "comparableWithLatest": true
+    },
+    {
+      "slot": "2026-10-20",
+      "status": "complete",
+      "runs": 1,
+      "boardsOk": 29,
+      "boards": 29,
+      "mainPanelPostings": 4059,
+      "comparableWithLatest": true
+    }
+  ]
+}
