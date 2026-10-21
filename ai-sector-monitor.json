@@ -2,8 +2,8 @@
   "schema": "philworks.observatory-feed/1",
   "kind": "automated_collection_metadata",
   "notice": "Automated collection statistics from public job boards. Not reviewed research findings and not a publication.",
-  "generatedAt": "2026-10-20T23:33:45.034Z",
-  "coveredThrough": "2026-10-20",
+  "generatedAt": "2026-10-21T06:44:26.669Z",
+  "coveredThrough": "2026-10-21",
   "schedule": {
     "cadence": "daily",
     "utcTimes": [
@@ -11,11 +11,11 @@
       "10:17"
     ]
   },
-  "runCount": 10,
+  "runCount": 11,
   "firstSlot": "2026-10-11",
   "lastAttempt": {
-    "slot": "2026-10-20",
-    "completedAt": "2026-10-20T06:43:38.624Z",
+    "slot": "2026-10-21",
+    "completedAt": "2026-10-21T06:44:23.272Z",
     "panelVersion": "2026-10-10-provisional-1",
     "collectorVersion": "1.0.1",
     "boards": {
@@ -27,7 +27,7 @@
     "mainPanel": {
       "employers": 23,
       "ok": 23,
-      "postings": 4059
+      "postings": 4063
     },
     "stratumC": {
       "employers": 6,
@@ -35,8 +35,8 @@
     }
   },
   "lastSuccess": {
-    "slot": "2026-10-20",
-    "completedAt": "2026-10-20T06:43:38.624Z",
+    "slot": "2026-10-21",
+    "completedAt": "2026-10-21T06:44:23.272Z",
     "panelVersion": "2026-10-10-provisional-1",
     "collectorVersion": "1.0.1",
     "boards": {
@@ -48,7 +48,7 @@
     "mainPanel": {
       "employers": 23,
       "ok": 23,
-      "postings": 4059
+      "postings": 4063
     },
     "stratumC": {
       "employers": 6,
@@ -57,11 +57,11 @@
   },
   "sevenDayChange": {
     "status": "comparable",
-    "from": "2026-10-13",
-    "to": "2026-10-20",
-    "fromPostings": 4031,
-    "toPostings": 4059,
-    "change": 28
+    "from": "2026-10-14",
+    "to": "2026-10-21",
+    "fromPostings": 4022,
+    "toPostings": 4063,
+    "change": 41
   },
   "days": [
     {
@@ -152,6 +152,15 @@
       "boardsOk": 29,
       "boards": 29,
       "mainPanelPostings": 4059,
+      "comparableWithLatest": true
+    },
+    {
+      "slot": "2026-10-21",
+      "status": "complete",
+      "runs": 1,
+      "boardsOk": 29,
+      "boards": 29,
+      "mainPanelPostings": 4063,
       "comparableWithLatest": true
     }
   ]
