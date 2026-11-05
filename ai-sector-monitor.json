@@ -2,8 +2,8 @@
   "schema": "philworks.observatory-feed/1",
   "kind": "automated_collection_metadata",
   "notice": "Automated collection statistics from public job boards. Not reviewed research findings and not a publication.",
-  "generatedAt": "2026-11-04T06:30:51.053Z",
-  "coveredThrough": "2026-11-04",
+  "generatedAt": "2026-11-05T06:30:45.274Z",
+  "coveredThrough": "2026-11-05",
   "schedule": {
     "cadence": "daily",
     "utcTimes": [
@@ -11,11 +11,11 @@
       "10:17"
     ]
   },
-  "runCount": 25,
+  "runCount": 26,
   "firstSlot": "2026-10-11",
   "lastAttempt": {
-    "slot": "2026-11-04",
-    "completedAt": "2026-11-04T06:30:46.584Z",
+    "slot": "2026-11-05",
+    "completedAt": "2026-11-05T06:30:40.003Z",
     "panelVersion": "2026-10-10-provisional-1",
     "collectorVersion": "1.0.1",
     "boards": {
@@ -27,7 +27,7 @@
     "mainPanel": {
       "employers": 23,
       "ok": 23,
-      "postings": 4101
+      "postings": 4099
     },
     "stratumC": {
       "employers": 6,
@@ -35,8 +35,8 @@
     }
   },
   "lastSuccess": {
-    "slot": "2026-11-04",
-    "completedAt": "2026-11-04T06:30:46.584Z",
+    "slot": "2026-11-05",
+    "completedAt": "2026-11-05T06:30:40.003Z",
     "panelVersion": "2026-10-10-provisional-1",
     "collectorVersion": "1.0.1",
     "boards": {
@@ -48,7 +48,7 @@
     "mainPanel": {
       "employers": 23,
       "ok": 23,
-      "postings": 4101
+      "postings": 4099
     },
     "stratumC": {
       "employers": 6,
@@ -57,22 +57,13 @@
   },
   "sevenDayChange": {
     "status": "comparable",
-    "from": "2026-10-28",
-    "to": "2026-11-04",
-    "fromPostings": 4114,
-    "toPostings": 4101,
+    "from": "2026-10-29",
+    "to": "2026-11-05",
+    "fromPostings": 4112,
+    "toPostings": 4099,
     "change": -13
   },
   "days": [
-    {
-      "slot": "2026-10-22",
-      "status": "complete",
-      "runs": 1,
-      "boardsOk": 29,
-      "boards": 29,
-      "mainPanelPostings": 4067,
-      "comparableWithLatest": true
-    },
     {
       "slot": "2026-10-23",
       "status": "complete",
@@ -188,6 +179,15 @@
       "boardsOk": 29,
       "boards": 29,
       "mainPanelPostings": 4101,
+      "comparableWithLatest": true
+    },
+    {
+      "slot": "2026-11-05",
+      "status": "complete",
+      "runs": 1,
+      "boardsOk": 29,
+      "boards": 29,
+      "mainPanelPostings": 4099,
       "comparableWithLatest": true
     }
   ]
